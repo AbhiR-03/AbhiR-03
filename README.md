@@ -26,4 +26,4 @@ Git, GitHub, Postman, Linux CLI, CI/CD Pipelines
 ---
 
 ## 📫 Reach Me
-- 📧 abhiram@example.com  
+- 📧 rampallyabhiram03@gmail.com  
