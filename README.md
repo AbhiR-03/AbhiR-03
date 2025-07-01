@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhi Ram
 
-<!--
-**AbhiR-03/AbhiR-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Graduate | 🚀 DevOps & Cloud Enthusiast  
+🌱 Currently learning and building in the space of Cloud, CI/CD, and Kubernetes  
+🎯 Actively looking for job/internship opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- 🔧 **CI/CD Pipeline with GitHub Actions** — Built automated pipelines for Docker & Kubernetes deployment
+- 🐍 **Log Anomaly Detector** — Detected anomalies in logs using Isolation Forest (Python)
+- ☕ **Identity Reconciliation API** — RESTful microservice using Spring Boot
+---
+
+## 🛠️ Skills & Tools
+
+**Languages & Frameworks:**  
+Java, Spring Boot, Python (basic)
+
+**DevOps & Cloud:**  
+Docker, Kubernetes, AWS, GitHub Actions, Jenkins, Grafana
+
+**Tools:**  
+Git, GitHub, Postman, Linux CLI, CI/CD Pipelines
+
+---
+
+## 📫 Reach Me
+- 📧 abhiram@example.com  
